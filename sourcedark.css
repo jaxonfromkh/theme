@@ -904,7 +904,7 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
 
 .bd-switch-checked,
 .theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
-    background-color: var(--bd-red) !important;
+    background-color: var(--bd-blue) !important;
 }
 
 #bd-settingspane-container .ui-switch-item .style-description,
@@ -1169,12 +1169,12 @@ img.graphic--xq3rr.da-graphic {
 #user-settings>div>div.contentRegion-3nDuYy.da-contentRegion>div>div>main>div>div.content-3BhRLj.da-content>div.wrapper-3nSjSv.da-wrapper>div>button>div,
 #popout_173>div>div>button>div,
 .wrapper-3nSjSv.da-wrapper>div>button>div {
-    color: #b81d1d !important;
+    color: #7289da !important;
 }
 
 .bda-link,
 .author {
-    color: #bebab9 !important;
+    color: #b9bbbe !important;
 }
 
 .da-categorySection {
@@ -1191,7 +1191,7 @@ img.graphic--xq3rr.da-graphic {
 }
 
 .bd-switch-checked {
-    background-color: #d63232 !important;
+    background-color: #7289da !important;
 }
 
 .headerSpotify-zpWxgT,
