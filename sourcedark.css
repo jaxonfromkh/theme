@@ -904,7 +904,7 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
 
 .bd-switch-checked,
 .theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
-    background-color: var(--bd-blue) !important;
+    background-color: var(--bd-red) !important;
 }
 
 #bd-settingspane-container .ui-switch-item .style-description,
