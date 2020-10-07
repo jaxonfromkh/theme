@@ -41,11 +41,11 @@
   --toolbar-text-focus: #ffffff;
   --toolbar-search-background: #161a1d;
   --toolbar-search-border: var(--toolbar-border);
-  --toolbar-background: #e3e9f0;
-  --toolbar-background-hover: #d8e4f0;
-  --toolbar-background-active:#d4dae0;
+  --toolbar-background: #1d2125;
+  --toolbar-background-hover: #2f363d;
+  --toolbar-background-active:#444d56;
   --toolbar-background-alt: #24292e;
-  --toolbar-border: #f0e2e2;
+  --toolbar-border: #141414;
   --input-height: 25px;
   --item-height: 34px;
   --sidebar-width: 260px;
@@ -75,7 +75,7 @@
 .theme-dark,
 html.theme-dark #app-mount .theme-light .root-1gCeng,
 html.theme-dark .force-theme.theme-light {
-  --base-border: #f3e3e3;
+  --base-border: #141414;
   --text-normal: #d1d5da;
   --text-muted: #959da5;
   --text-focus: #ffffff;
@@ -1097,7 +1097,7 @@ html.platform-win[lang=en-US]:not(.app-focused) body:not(.oldTitleBarEnabled-D8p
   white-space: normal;
   text-align: center;
   box-shadow: none;
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(0, 0, 0, 0.5);
   cursor: var(--cursor);
   transition: none;
 }
