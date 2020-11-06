@@ -35,17 +35,6 @@
   --titlebar-height: 28px;
   --win32-close-background-hover:#e81123;
   --win32-close-background-active:#bf0f1d;
-  --toolbar-height: 50px;
-  --toolbar-text-normal: #000000;
-  --toolbar-text-muted: #3d3f41;
-  --toolbar-text-focus: #000000;
-  --toolbar-search-background: #ffffff;
-  --toolbar-search-border: var(--toolbar-border);
-  --toolbar-background: #ffffff;
-  --toolbar-background-hover: #e4e8ec;
-  --toolbar-background-active:#cdd9e6;
-  --toolbar-background-alt: #ffffff;
-  --toolbar-border: #e1e4e8;
   --input-height: 25px;
   --item-height: 34px;
   --sidebar-width: 260px;
@@ -98,6 +87,17 @@ html.theme-dark .force-theme.theme-light {
   --syntax-grey-alt:#d1d5da;
   --syntax-orange:#ffab70;
   --syntax-green:#56b6c2;
+  --toolbar-height: 50px;
+  --toolbar-text-normal: #d1d5da;
+  --toolbar-text-muted: #959da5;
+  --toolbar-text-focus: #ffffff;
+  --toolbar-search-background: #161a1d;
+  --toolbar-search-border: var(--toolbar-border);
+  --toolbar-background: #1d2125;
+  --toolbar-background-hover: #2f363d;
+  --toolbar-background-active:#444d56;
+  --toolbar-background-alt: #24292e;
+  --toolbar-border: #141414;
 }
 
 .theme-light,
@@ -127,6 +127,17 @@ html.theme-light .force-theme.theme-light {
   --syntax-grey-alt:#24292e;
   --syntax-orange:#ffab70;
   --syntax-green:#56b6c2;
+  --toolbar-height: 50px;
+  --toolbar-text-normal: #000000;
+  --toolbar-text-muted: #3d3f41;
+  --toolbar-text-focus: #000000;
+  --toolbar-search-background: #ffffff;
+  --toolbar-search-border: var(--toolbar-border);
+  --toolbar-background: #ffffff;
+  --toolbar-background-hover: #e4e8ec;
+  --toolbar-background-active:#cdd9e6;
+  --toolbar-background-alt: #ffffff;
+  --toolbar-border: #e1e4e8;
 }
 
 ::-webkit-input-placeholder {
